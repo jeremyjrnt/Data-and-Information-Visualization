@@ -125,7 +125,7 @@ Following **Munzner’s Visualization Framework (Why / What / How):**
 | **Tableau Desktop** | Dashboard and storytelling design |
 | **Google Drive / Sheets** | Collaboration and source hosting |
 | **Tableau Public** | Online publication |
-| **PDF & Video tools** | Report documentation and presentation |
+
 
 ---
 
